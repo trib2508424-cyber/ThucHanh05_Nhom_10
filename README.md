@@ -19,4 +19,5 @@ Dưới đây là các file được tạo ra từ Nhiệm vụ 1.1 đến 3.1:
 * **Công cụ AI được sử dụng:**
     * **Canva AI:** Hỗ trợ thiết kế Infographic.
     * **GitHub Copilot:** Hỗ trợ tạo mã nguồn HTML.
-* **Giấy phép (License):** Nội dung này được cấp phép theo ** Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+* **Giấy phép (License):** Nội dung này được cấp phép theo **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+ https://creativecommons.org/licenses/by/4.0/
